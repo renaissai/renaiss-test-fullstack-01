@@ -3,6 +3,7 @@
 Se requiere crear un microservicio con funcionalidad de login y registro de usuario, con acceso a un chat y un modelo de lenguaje para el historial de chat. El proyecto deberá ser desarrollado utilizando las siguientes tecnologías:
 
 - Frontend en Next.js o Native JS
+- Estilos/componentes de Frontend libre, pero de preferencia usar flowbite o tailwind
 - Backend en FastAPI
 - Base de datos relacional (a elección)
 - Colas (opcional)
