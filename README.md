@@ -20,7 +20,7 @@ The chat history must show the first message that the user sent to the chat and 
 
 The user can ask questions of a maximum of 2000 tokens and a maximum of 20 messages. The user must be informed as he progresses in his question the number of tokens left for that question and once the question is sent, he must inform how many questions he has left for that chat. Once the token limit is reached, it should not be allowed to continue writing and once the message limit has been reached, a new chat must be started.
 
-Puedes utilizar referencias de Bing Chat o ChatGPT.
+You can use design references of Bing Chat or ChatGPT
 
 
 The project must be developed using the following technologies:
